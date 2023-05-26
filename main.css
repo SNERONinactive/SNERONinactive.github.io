@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+ul {
+    font-size: 20px;
+}
+
+header {
+    font-size: 50px;
+    background-color: rgb(20, 14, 77);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+body {
+    background-color: rgb(20, 16, 56);
+}
+
+ul  {
+    font-size: 35px;
+    width: 750px;
+    margin: 0 auto;
+}
+
+ul {
+    background-color: rgba(191, 173, 255, 0.705);
+    color: white;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 2px #f0f0f0 solid;
+}
+
+s {
+    text-align: center;
+    margin-top: 20px;
+}
+
+hr {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    padding: 10px;
+}
+
+.sss {
+    height: 5px;
+    background-color: #f0f0f0;
+}
+
+.ssssss {
+    height: 5px;
+    background-color: #f0f0f0;
+}
