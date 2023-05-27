@@ -9,13 +9,13 @@ ul {
 
 header {
     font-size: 50px;
-    background-color: rgb(20, 14, 77);
+    background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
     text-align: center;
 }
 
 body {
-    background-color: rgb(20, 16, 56);
+    background-color: rgb(0, 0, 0);
 }
 
 ul  {
@@ -25,7 +25,7 @@ ul  {
 }
 
 ul {
-    background-color: rgba(191, 173, 255, 0.705);
+    background-color: rgba(38, 69, 73, 0.356);
     color: white;
     margin-top: 10px;
     border-radius: 5px;
