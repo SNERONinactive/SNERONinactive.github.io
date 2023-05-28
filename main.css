@@ -40,7 +40,6 @@ s {
 hr {
     margin: 0;
     padding: 0;
-    background-color: rgb(53, 39, 77);
 }
 
 p {
@@ -49,19 +48,5 @@ p {
 
 .sss {
     height: 5px;
-    background-color: #f0f0f0;
-}
-
-.ssssss {
-    height: 5px;
-    background-color: #f0f0f0;
-}
-.a {
-    height: 5px;
-    background-color: #f0f0f0;
-}
-
-.d {
-    height: 5px;
-    background-color: #f0f0f0;
+    background-color: #4c39818f;
 }
