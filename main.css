@@ -10,7 +10,7 @@ ul {
 header {
     font-size: 50px;
     background-color: rgb(0, 0, 0);
-    color: rgb(255, 255, 255);
+    color: rgb(66, 49, 99);
     text-align: center;
 }
 
@@ -26,10 +26,10 @@ ul  {
 
 ul {
     background-color: rgba(38, 69, 73, 0.356);
-    color: white;
+    color: rgb(120, 70, 134);
     margin-top: 10px;
     border-radius: 5px;
-    border: 2px #f0f0f0 solid;
+    border: 2px #62518f solid;
 }
 
 s {
@@ -48,5 +48,5 @@ p {
 
 .sss {
     height: 5px;
-    border-color: aqua;
+    border-color: rgb(181, 141, 255);
 }
